@@ -1,3 +1,7 @@
+Dwi Ratna Anggraeni
+122450008
+RB
+
 **RESUME ARTIKEL**
 
 # **Making data visualization more efficient and effective: a survey**
@@ -7,9 +11,6 @@
 > Nama Jurnal : The VLDB Journal
 
 > Tanggal Terbit : 19 November 2019
-
-
-
 
 Dunia bisnis berbasis data saat ini membutuhkan visualisasi data untuk membantu pengambilan keputusan perusahaan industri. Namun, karena tingginya permintaan pemrosesan jumlah data, kecepatan, dan kebenaran data, ada kebutuhan yang muncul untuk ahli basis data untuk membantu agar efisien dan visualisasi data yang efektif. Artikel ini mensurvei teknik-teknik yang membuat visualisasi data menjadi lebih efisien dan efektif.
 1. Spesifikasi Visualisasi
